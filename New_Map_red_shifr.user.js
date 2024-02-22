@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2024-02-22:1
 // @description  try to take over the world!
-// @author       Artak and Endless Night : beta testers Sallbet
+// @author       Artak : beta testers Sallbet
 // @match      *://pixelplanet.fun/*
 // @match      *://fuckyouarkeros.fun/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
